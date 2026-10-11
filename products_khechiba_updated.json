@@ -1,0 +1,75 @@
+[
+  {
+    "id": "bag-001",
+    "category": "bags",
+    "name": "مجموعة حقائب متنوعة",
+    "description": "موديلات عملية للدراسة والعمل والاستعمال اليومي.",
+    "price": 3500,
+    "currency": "دج",
+    "active": true,
+    "images": [
+      "images/bags/sacs-produits.jpg",
+      "images/bags/publicite-sacs.png"
+    ]
+  },
+  {
+    "id": "receiver-001",
+    "category": "receivers",
+    "name": "اسم جهاز الاستقبال",
+    "description": "أضف وصف الجهاز والمميزات هنا.",
+    "price": null,
+    "currency": "دج",
+    "active": false,
+    "images": []
+  },
+  {
+    "id": "electronics-001",
+    "category": "electronics",
+    "name": "اسم الجهاز الإلكتروني",
+    "description": "أضف وصف المنتج والمميزات هنا.",
+    "price": null,
+    "currency": "دج",
+    "active": false,
+    "images": []
+  },
+  {
+    "id": "cirta-month",
+    "category": "cirta-tv",
+    "name": "اشتراك CIRTA TV — شهر",
+    "description": "تفعيل اشتراك لمدة شهر. تواصل معنا لتأكيد التوافق والتفاصيل.",
+    "price": null,
+    "currency": "دج",
+    "active": false,
+    "images": []
+  },
+  {
+    "id": "cirta-quarter",
+    "category": "cirta-tv",
+    "name": "اشتراك CIRTA TV — 3 أشهر",
+    "description": "تفعيل اشتراك لمدة 3 أشهر. تواصل معنا لتأكيد التوافق والتفاصيل.",
+    "price": null,
+    "currency": "دج",
+    "active": false,
+    "images": []
+  },
+  {
+    "id": "cirta-year",
+    "category": "cirta-tv",
+    "name": "اشتراك CIRTA TV — سنة",
+    "description": "تفعيل اشتراك لمدة سنة. تواصل معنا لتأكيد التوافق والتفاصيل.",
+    "price": null,
+    "currency": "دج",
+    "active": false,
+    "images": []
+  },
+  {
+    "id": "cirta-server",
+    "category": "cirta-tv",
+    "name": "تفعيل serveur / IPTV",
+    "description": "خدمة تفعيل حسب نوع الجهاز والمدة المطلوبة.",
+    "price": null,
+    "currency": "دج",
+    "active": false,
+    "images": []
+  }
+]
